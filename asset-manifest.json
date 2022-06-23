@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Increment_Decrement_with_Redux/static/css/main.50ef138d.chunk.css",
+    "main.js": "/Increment_Decrement_with_Redux/static/js/main.a13e01ba.chunk.js",
+    "main.js.map": "/Increment_Decrement_with_Redux/static/js/main.a13e01ba.chunk.js.map",
+    "runtime-main.js": "/Increment_Decrement_with_Redux/static/js/runtime-main.b85fb202.js",
+    "runtime-main.js.map": "/Increment_Decrement_with_Redux/static/js/runtime-main.b85fb202.js.map",
+    "static/js/2.ccc760cc.chunk.js": "/Increment_Decrement_with_Redux/static/js/2.ccc760cc.chunk.js",
+    "static/js/2.ccc760cc.chunk.js.map": "/Increment_Decrement_with_Redux/static/js/2.ccc760cc.chunk.js.map",
+    "index.html": "/Increment_Decrement_with_Redux/index.html",
+    "static/css/main.50ef138d.chunk.css.map": "/Increment_Decrement_with_Redux/static/css/main.50ef138d.chunk.css.map",
+    "static/js/2.ccc760cc.chunk.js.LICENSE.txt": "/Increment_Decrement_with_Redux/static/js/2.ccc760cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85fb202.js",
+    "static/js/2.ccc760cc.chunk.js",
+    "static/css/main.50ef138d.chunk.css",
+    "static/js/main.a13e01ba.chunk.js"
+  ]
+}
